@@ -1,0 +1,65 @@
+.img-holder {}
+
+.support-area {
+    position: relative;
+    background: url(http://silvergymbd.com/img/resources/texture/pattern-1.png) repeat;
+    background-color: #A6C311;
+}
+
+.support-area * {
+    position: relative;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-xs-12 {
+    width: 100%;
+    float: left;
+}
+
+.support-area .support-content {
+    color: #ffffff;
+    font-weight: 600;
+    padding-top: 100px;
+}
+
+.support-content .single-item:hover .icon-holder i {
+    background: #272727;
+    color: #fff;
+}
+
+.support-content .single-item .icon-holder i {
+    float: right;
+    margin-right: 20px;
+}
+
+.support-area .support-content {
+    color: #ffffff;
+    font-weight: 600;
+    padding-top: 100px;
+}
+
+div {
+    display: block;
+}
+
+.support-area:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #a6c311;
+    display: block;
+    opacity: .95;
+}
+
+.content {
+    padding-left: 500px;
+}

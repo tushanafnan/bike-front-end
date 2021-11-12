@@ -1,0 +1,53 @@
+.header {
+    background-color: #FCF9F0;
+    background-image: url(https://4b4484781e2008fab587-e20327036cbb7cd3b54853c4c640b747.ssl.cf1.rackcdn.com/herowidget/5c96dc60902009505cbd5732/wide-splash-key-visual-scooter3.jpg);
+    width: 100%;
+    height: 100%;
+    padding: 100px;
+    background-size: cover;
+}
+
+.img-men {
+    background-image: url(../../image/header-[ic.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    Width: 400px;
+    border-radius: 80%;
+}
+
+.text-color {
+    color: #FF1F59;
+}
+
+.btn-color {
+    background-color: #FF1F59;
+    color: white;
+}
+
+.container {
+    width: 100%;
+}
+
+@media (height: 100%) {}
+
+@media (min-width:320px) {
+    /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+}
+
+@media (min-width:480px) {
+    /* smartphones, Android phones, landscape iPhone */
+}
+
+@media (min-width:600px) {
+    /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
+}
+
+@media (min-width:801px) {
+    /* tablet, landscape iPad, lo-res laptops ands desktops */
+}
+
+@media (min-width:1025px) {
+    /* big landscape tablets, laptops, and desktops */
+}
+
+@media (min-width:1281px) {}

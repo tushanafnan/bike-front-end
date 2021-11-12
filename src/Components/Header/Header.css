@@ -1,0 +1,34 @@
+.logo {
+    height: 30px;
+    margin-right: 80px;
+}
+
+.dropdowns {
+    text-decoration: none;
+    color: black;
+}
+
+.nav {
+    font-size: medium;
+}
+
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(218, 214, 214);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.items:hover {
+    color: rgb(43, 26, 26);
+}
+
+.nav-position {
+    position: sticky !important;
+    z-index: 222;
+    top: 0;
+}

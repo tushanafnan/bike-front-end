@@ -1,0 +1,11 @@
+.img-part {
+    text-align: center;
+    justify-content: center;
+    max-width: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+.row-solve {
+    width: 100%;
+}
